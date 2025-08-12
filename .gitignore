@@ -1,0 +1,15 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Quarto
+*.html
+*_files/
+*.utf8.md
+*.knit.md
+_site/
+_book/
+
+# System
+.DS_Store
