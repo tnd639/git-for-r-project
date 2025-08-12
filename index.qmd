@@ -2,10 +2,11 @@
 title: "Intro to Git"
 ---
 
-This is a Quarto website.
+# Summary
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Here is a summary of the 'mtcars' dataset.
 
 ```{r}
-1 + 1
+summary(mtcars)
 ```
+
